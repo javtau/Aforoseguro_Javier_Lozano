@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aforo seguro</string>
+    <string name="hint_user">Introduzca su usuario</string>
+    <string name="hint_pass">Introduzca su contraseña</string>
+    <string name="hint_aforo">Introduzca el aforo máximo</string>
+
+    <string name="btn_entrar">ENTRAR</string>
+
+    <string name="toast_introuser">Debe introducir un usuario</string>
+    <string name="toast_intropass">Debe introducir una contraseña</string>
+    <string name="toast_introaforo">Debe introducir el aforo</string>
+    <string name="toast_credenciales">Credenciales incorrectas</string>
+    <string name="toast_contraseña">La contraseña no es correcta</string>
+    <string name="toast_maximo">Se a alcanzado el aforo maximo, pongase en contacto con el encargado.</string>
+
+    <string name="menu_reiniciar">Reiniciar conteo</string>
+    <string name="ask_llamada">¿Desea llamar a un superior?</string>
+    <string name="btn_mas">+</string>
+    <string name="btn_menos">-</string>
+
+</resources>
